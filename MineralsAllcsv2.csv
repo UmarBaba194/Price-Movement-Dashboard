@@ -1,0 +1,15 @@
+ Mineral,Price,Mineral Type
+Iron ore,1666.67, Metalic
+NON-METALLIC MINERALS,PRICE PER TON,Non Metalic
+Kaolin (crude),1000,Non Metalic
+Processed Kaolin,6000,Non Metalic
+Feldspar,1666.67,Non Metalic
+Mica,2666.67,Non Metalic
+Muscovite,2666.67,Non Metalic
+Graphite,1666.67,Non Metalic
+Quartz,"15,000,000",Non Metalic
+Rose Quartz,"25,000,000",Gemestone
+Amethyst,"60,000,000",Gemestone
+Agate (industrial),"50,000",Gemestone
+Jasper,"10,000",Gemestone
+Fluorite,"10,000",Gemestone
